@@ -13,7 +13,7 @@ body{
     position: absolute;
     top: 170px;
     left: 50%;
-    transform: translateX(-50%);
+    transform: translateX(-50%) skewX(-10deg);
     text-align: center;
     width: 100%;
     font-weight: bold;
