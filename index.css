@@ -65,6 +65,7 @@ button{
     font-weight: bold;
     cursor: pointer;
 }
+
 button:hover{
     background-color: hsl(0, 0%, 40%);
 }
